@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url(../images/background.jpeg);
+    background-image: url(../images/bgimage3.jpeg);
     height: 100%;
     background-position: center;
     background-attachment: fixed;
@@ -343,7 +343,7 @@ h3 {
     border: 0;
     font-size: 100%;
     font-size: 26px;
-    color: black;
+    color: aliceblue;
     padding-left: 0px;
     text-align: center;
 }
@@ -366,6 +366,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    
 }
 
 li a:hover:not(.active) {
